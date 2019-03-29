@@ -1,0 +1,3 @@
+Git is not very good.
+It let me feel bad.
+Creating a new branch is quick.
