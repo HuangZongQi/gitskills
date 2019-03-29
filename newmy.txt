@@ -1,4 +1,5 @@
 Git is not very good.
 It let me feel bad.
-<<<<<<< HEAD
+change.
 Creating a new branch is quick and simple.
+debug.
